@@ -1,7 +1,10 @@
 namespace kata_abc
 {
-    public class Solution
+    public class kata_abc
     {
-        
+        public static void Solution()
+        {
+            
+        }
     }
 }
