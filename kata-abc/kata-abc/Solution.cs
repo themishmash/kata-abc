@@ -33,6 +33,22 @@ namespace kata_abc
                 };
             
             Console.WriteLine(blockList.Count);
+            
+            
+            Console.WriteLine("What word are you trying to make?");
+            var userInput = Console.ReadLine().ToUpper();
+
+            //split word into letters
+            char userLetter;
+            foreach (char c in userInput)
+            {
+                userLetter = c;
+
+                Console.WriteLine(userLetter);
+                
+            }
+            
+            
         }
     }
 }
