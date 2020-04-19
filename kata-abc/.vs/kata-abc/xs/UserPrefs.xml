@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{BD9932AC-0A7B-4C02-8BAD-F9D9CAE04609}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="kata-abc/Solution.cs">
+    <Files>
+      <File FileName="kata-abc/Solution.cs" Line="73" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="kata-abc" expanded="True">
+            <Node name="kata-abc" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.kata-abc PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
