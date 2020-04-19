@@ -1,0 +1,12 @@
+/Users/michelle.wong/FMA/kata-abc/kata-abc/kata-abc/bin/Debug/netcoreapp3.1/kata-abc.deps.json
+/Users/michelle.wong/FMA/kata-abc/kata-abc/kata-abc/bin/Debug/netcoreapp3.1/kata-abc.runtimeconfig.json
+/Users/michelle.wong/FMA/kata-abc/kata-abc/kata-abc/bin/Debug/netcoreapp3.1/kata-abc.runtimeconfig.dev.json
+/Users/michelle.wong/FMA/kata-abc/kata-abc/kata-abc/bin/Debug/netcoreapp3.1/kata-abc.dll
+/Users/michelle.wong/FMA/kata-abc/kata-abc/kata-abc/bin/Debug/netcoreapp3.1/kata-abc.pdb
+/Users/michelle.wong/FMA/kata-abc/kata-abc/kata-abc/obj/Debug/netcoreapp3.1/kata-abc.csprojAssemblyReference.cache
+/Users/michelle.wong/FMA/kata-abc/kata-abc/kata-abc/obj/Debug/netcoreapp3.1/kata-abc.AssemblyInfoInputs.cache
+/Users/michelle.wong/FMA/kata-abc/kata-abc/kata-abc/obj/Debug/netcoreapp3.1/kata-abc.AssemblyInfo.cs
+/Users/michelle.wong/FMA/kata-abc/kata-abc/kata-abc/obj/Debug/netcoreapp3.1/kata-abc.dll
+/Users/michelle.wong/FMA/kata-abc/kata-abc/kata-abc/obj/Debug/netcoreapp3.1/kata-abc.pdb
+/Users/michelle.wong/FMA/kata-abc/kata-abc/kata-abc/obj/Debug/netcoreapp3.1/kata-abc.csproj.CoreCompileInputs.cache
+/Users/michelle.wong/FMA/kata-abc/kata-abc/kata-abc/obj/Debug/netcoreapp3.1/kata-abc.genruntimeconfig.cache
